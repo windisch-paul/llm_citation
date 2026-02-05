@@ -1,0 +1,7 @@
+vendor,model,condition,accuracy_valid_only,f1_macro_valid_only,n_total,n_valid,n_invalid,n_error,pct_valid,pct_quote_present,pct_quote_is_substring
+anthropic,claude-opus-4-5-20251101,baseline,0.765000,0.750297,600,600,0,0,100.00,0.00,0.00
+anthropic,claude-opus-4-5-20251101,evidence_required,0.755000,0.734428,600,600,0,0,100.00,85.00,96.50
+gemini,gemini-3-flash-preview,baseline,0.845000,0.833580,600,600,0,0,100.00,0.00,0.00
+gemini,gemini-3-flash-preview,evidence_required,0.824121,0.792929,600,597,3,0,99.50,43.50,57.50
+openai,gpt-5.2-2025-12-11,baseline,0.765000,0.751770,600,600,0,0,100.00,0.00,0.00
+openai,gpt-5.2-2025-12-11,evidence_required,0.758333,0.723774,600,600,0,0,100.00,84.50,98.50

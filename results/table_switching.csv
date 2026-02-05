@@ -1,0 +1,4 @@
+vendor,n_pairs,n_switched,pct_switched,n_pairs_quote_ok,n_switched_quote_ok,pct_switched_quote_ok,correct_to_correct,correct_to_incorrect,incorrect_to_correct,incorrect_to_incorrect,quote_ok_correct,quote_ok_incorrect
+anthropic,600,24,4.00,579,24,4.15,447,12,6,135,441,138
+gemini,597,57,9.55,345,33,9.57,480,24,12,81,303,42
+openai,600,63,10.50,591,63,10.66,434,25,21,120,446,145

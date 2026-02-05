@@ -1,0 +1,7 @@
+vendor,condition,n_runs,n_items,fleiss_kappa
+anthropic,baseline,3,200,1.000000
+anthropic,evidence_required,3,200,1.000000
+gemini,baseline,3,200,1.000000
+gemini,evidence_required,3,199,1.000000
+openai,baseline,3,200,0.985662
+openai,evidence_required,3,200,0.972043

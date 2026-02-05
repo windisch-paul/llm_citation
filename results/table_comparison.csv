@@ -1,0 +1,4 @@
+vendor,baseline_f1,evidence_required_f1,baseline_acc,evidence_required_acc
+anthropic,0.750297,0.734428,0.765000,0.755000
+gemini,0.833580,0.792929,0.845000,0.824121
+openai,0.751770,0.723774,0.765000,0.758333

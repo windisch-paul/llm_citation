@@ -1,0 +1,4 @@
+vendor,condition,n_runs,n_items,fleiss_kappa_valid_quote_only
+anthropic,evidence_required,3,193,1.000000
+gemini,evidence_required,3,115,1.000000
+openai,evidence_required,3,196,0.971557

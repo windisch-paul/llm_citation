@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.*
+!.env.example
+.envrc
+.DS_Store
+*.pem
+*.key
+*.p12
+*.pfx
+*.p8
+id_rsa
+id_ed25519
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Results
+# (predictions.csv tracked for reproducibility)
+
+# Data (keep processed trials.csv tracked)
+data/metastatic_local.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Agent instructions
+AGENTS.md
+CLAUDE.md

@@ -1,0 +1,4 @@
+vendor,model,baseline_f1,evidence_f1,delta_f1,baseline_acc,evidence_acc,delta_acc,evidence_pct_quote_present,evidence_pct_quote_ok,evidence_f1_valid_quote_only,pct_switched,fleiss_kappa_baseline,fleiss_kappa_evidence,fleiss_kappa_evidence_valid_quote_only
+anthropic,claude-opus-4-5-20251101,0.750297,0.734428,-0.015869,0.765000,0.755000,-0.010000,85.00,96.50,0.737727,4.00,1.000000,1.000000,1.000000
+gemini,gemini-3-flash-preview,0.833580,0.792929,-0.040651,0.845000,0.824121,-0.020879,43.50,57.50,0.847881,9.55,1.000000,1.000000,1.000000
+openai,gpt-5.2-2025-12-11,0.751770,0.723774,-0.027996,0.765000,0.758333,-0.006667,84.50,98.50,0.722692,10.50,0.985662,0.972043,0.971557

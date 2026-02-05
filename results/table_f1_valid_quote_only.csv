@@ -1,0 +1,4 @@
+vendor,condition,accuracy_valid_quote_only,f1_macro_valid_quote_only,n_total_quote_ok,n_valid_quote_ok,pct_valid_quote_ok
+anthropic,evidence_required,0.761658,0.737727,579,579,100.00
+gemini,evidence_required,0.878261,0.847881,345,345,100.00
+openai,evidence_required,0.754653,0.722692,591,591,100.00
