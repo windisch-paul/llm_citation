@@ -1,4 +1,4 @@
-# LLM Citations (`publications/llm_citations`)
+# LLM Citations
 
 Evaluates whether requiring verbatim evidence (quotes) improves LLM trustworthiness for eligibility classification of oncology RCT abstracts.
 
