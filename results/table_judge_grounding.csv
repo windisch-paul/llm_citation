@@ -1,0 +1,10 @@
+Classification model,Judge LLM,Predictions deemed semantically grounded [%],Macro F1 (semantically grounded only)
+GPT-5.2,GPT-5.2,73.8,0.924
+,Gemini 3 Flash,78.8,0.946
+,Claude Opus 4.5,74.0,0.947
+Gemini 3 Flash,GPT-5.2,48.0,0.932
+,Gemini 3 Flash,59.0,0.951
+,Claude Opus 4.5,49.5,0.946
+Claude Opus 4.5,GPT-5.2,67.2,0.883
+,Gemini 3 Flash,73.5,0.917
+,Claude Opus 4.5,73.2,0.856

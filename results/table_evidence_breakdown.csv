@@ -1,0 +1,4 @@
+vendor,n_total,correct_and_quote_present,correct_not_quote_present,incorrect_answered,unclear_or_invalid,correct_and_quote_present_pct,correct_not_quote_present_pct,incorrect_answered_pct,unclear_or_invalid_pct
+openai,600,462,5,39,94,77.0,0.8333333333333334,6.5,15.666666666666668
+gemini,600,517,11,29,43,86.16666666666667,1.8333333333333333,4.833333333333333,7.166666666666667
+anthropic,600,425,17,125,33,70.83333333333334,2.833333333333333,20.833333333333336,5.5

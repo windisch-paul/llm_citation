@@ -1,0 +1,30 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+.envrc
+*.pem
+*.key
+*.p12
+*.pfx
+*.p8
+id_rsa
+id_ed25519
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local agent instructions
+AGENTS.md
+
+# Local version snapshots
+versions/
